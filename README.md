@@ -11,7 +11,7 @@
 	-  REST API
 	-  WhatsAPP Business Account (WATI)
 
-## Development procedure
+### Development procedure
 
 1) Create WATI account (7 days free trial available)		
 
@@ -29,7 +29,7 @@ Ashok IT.
 
 4) Use RestTemplate/Webclient to make WATI api call
 
-## Application Execution Flow
+### Application Execution Flow
 
 1) Customer will fill registration form and will click on submit
 
@@ -54,4 +54,4 @@ Ashok IT.
 
 	- with given details if record is not available in DB that means it is invalid otp so display error msg
 
-## Follow us on whatsapp channel To Get More Updates: https://www.whatsapp.com/channel/0029Va9NnSdCHDyqwAoeIB1G	
+### Follow us on whatsapp channel To Get More Updates: https://www.whatsapp.com/channel/0029Va9NnSdCHDyqwAoeIB1G	

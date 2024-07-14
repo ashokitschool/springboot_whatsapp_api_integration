@@ -1,6 +1,6 @@
 # Springboot_with_whatsapp_api_integration Application development
 
-## Watch Class Video: https://www.youtube.com/watch?v=o_pB8Nn9swI
+## Click Here To Watch Class Video: https://www.youtube.com/watch?v=o_pB8Nn9swI
 
 ## Follow us on whatsapp channel To Get More Updates: https://www.whatsapp.com/channel/0029Va9NnSdCHDyqwAoeIB1G
 
@@ -17,18 +17,17 @@
 
 2) Create Template in wati to send a otp msg like below
 
-```Greetings for the day..!!
+```
+Greetings for the day..!!
 Your OTP is *{{otp}}*
 Thanks,
 Ashok IT.	
 ```
-
-*italic* Note: WATI will review our template and they will approve it. Once template got approved then only we can send a msg using that template.*italic*
+`*Note: WATI will review our template and they will approve it. Once template got approved then only we can send a msg using that template.*`
 
 3) Configure WATI API Token & WATI Endpoint in our application
 
 4) Use RestTemplate/Webclient to send msg to whatsapp using WATI API
-
 
 ## Application Execution Flow
 
@@ -55,5 +54,4 @@ Ashok IT.
 
 	- with given details if record is not available in DB that means it is invalid otp so display error msg
 
- ## Follow us on whatsapp channel : https://www.whatsapp.com/channel/0029Va9NnSdCHDyqwAoeIB1G
-	
+## Follow us on whatsapp channel To Get More Updates: https://www.whatsapp.com/channel/0029Va9NnSdCHDyqwAoeIB1G	

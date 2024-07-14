@@ -1,10 +1,10 @@
 # Springboot_with_whatsapp_api_integration Application development
 
-## Click Here To Watch Class Video: https://www.youtube.com/watch?v=o_pB8Nn9swI
+### Click Here To Watch Class Video: https://www.youtube.com/watch?v=o_pB8Nn9swI
 
-## Follow us on whatsapp channel To Get More Updates: https://www.whatsapp.com/channel/0029Va9NnSdCHDyqwAoeIB1G
+### Follow us on whatsapp channel To Get More Updates: https://www.whatsapp.com/channel/0029Va9NnSdCHDyqwAoeIB1G
 
-## Pre-Requisites to develop this application
+### Pre-Requisites to develop this application
 	-  Spring Boot
 	-  Data JPA
 	-  Web MVC

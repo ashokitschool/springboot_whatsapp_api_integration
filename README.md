@@ -27,7 +27,7 @@ Ashok IT.
 
 3) Configure WATI API Token & WATI Endpoint in our application
 
-4) Use RestTemplate/Webclient to send msg to whatsapp using WATI API
+4) Use RestTemplate/Webclient to make WATI api call
 
 ## Application Execution Flow
 
@@ -39,12 +39,12 @@ Ashok IT.
 
 4) Set Generated OTP and Account Status as "Not_verified" to customer object and Insert customer record in database table
 
-5) Send OTP msg to customer given whatsapp number using wati api
+5) Send OTP msg to customer given whatsapp number using wati api call
 			- prepare api request object
 			- use wati api token as Authorization Header
 			- send post request with token + request object
 
-7) After sending whatsapp msg, redirect customer to validate OTP page and ask customer to enter OTP
+7) After sending whatsapp msg, redirect customer to validate_OTP page and ask customer to enter OTP
 
 8) Customer will enter OTP and will submit the form for validation
 

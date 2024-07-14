@@ -23,7 +23,7 @@ Your OTP is *{{otp}}*
 Thanks,
 Ashok IT.	
 ```
-`*Note: WATI will review our template and they will approve it. Once template got approved then only we can send a msg using that template.*`
+*Note: WATI will review our template and they will approve it. Once template got approved then only we can send a msg using that template.*
 
 3) Configure WATI API Token & WATI Endpoint in our application
 
